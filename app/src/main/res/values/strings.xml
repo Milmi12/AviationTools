@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Aviation Tools</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="label_fuelcalc">Fuel Calc</string>
+    <string name="label_fdtcheck">FDT Check</string>
+    <string name="label_weeklycheck">168h Check</string>
+
+    <string name="Fuel" translatable="false">00.0</string>
+    <string name="remain_fuel" translatable="false">Remaining Fuel:</string>
+    <string name="ramp_fuel" translatable="false">Ramp Fuel:</string>
+    <string name="uplift" translatable="false">Uplift:</string>
+    <string name="calc_liters" translatable="false">Calculated Liters:</string>
+    <string name="lbs" translatable="false">lbs</string>
+    <string name="ltr" translatable="false">ltr</string>
+    <string name="start_time">Check In</string>
+    <string name="end_time">On Block</string>
+    <string name="sectors_flown">Number of sectors</string>
+    <string name="calc_button">Calculate</string>
+    <string name="max_allowable">Latest On Block</string>
+    <string name="time_empty">--:--</string>
+    <string name="utc">UTC</string>
+    <string name="initial_sector">1</string>
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+    <string name="fdt">FDT</string>
+    <string name="max_fdt">max. FDT</string>
+    <string name="max_on_block">latest On Block</string>
+</resources>
